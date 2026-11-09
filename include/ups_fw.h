@@ -1,4 +1,5 @@
 /*---------------------------------------------------------------------------*/
+/* SPDX-License-Identifier: BSD-3-Clause */
 /**
  * @file ups_fw.h
  * @author charles-park (charles.park@hardkernel.com)
